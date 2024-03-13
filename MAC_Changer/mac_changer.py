@@ -37,4 +37,4 @@ current_mac = get_current_mac (args. interface)
 if current_mac == args.new_mac:
 print(" [+] MAC address changed to " + current_mac)
 else:
-print("[-] MAC address did not get changed").
+print("[-] MAC address did not get changed")
